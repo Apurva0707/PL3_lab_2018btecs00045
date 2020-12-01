@@ -1,0 +1,38 @@
+body{
+	background-color:pink;
+	margin: 10;
+	font-family: "Montserrat", "Avenir";
+}
+h2{
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: black;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+p{
+	line-height: 1.1;
+	font-weight: normal;
+	color: blue;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+var{
+	line-height: 1.1;
+	font-weight: normal;
+	color:blue;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+small{
+	line-height: 1.1;
+	font-weight: normal;
+	color: blue;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}

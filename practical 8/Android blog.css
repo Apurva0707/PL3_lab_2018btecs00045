@@ -1,0 +1,19 @@
+p{
+	text-align: center;
+	text-decoration-color: black;
+}
+body {
+	background-color: white;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+}
+h1 {
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: white;
+	background: steelblue;
+	margin: 0;
+	text-transform: uppercase;
+	padding: 10px 0;
+}

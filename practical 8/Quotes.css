@@ -1,0 +1,41 @@
+body{
+	background-color:black;
+	margin: 10;
+	font-family: "Montserrat", "Avenir";
+}
+h2{
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color:white;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+h3{
+	line-height: 1.1;
+	font-weight: normal;
+	color:white;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+h1{
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: white;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
+p{
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: white;
+	background-color: pink;
+	margin: 20;
+	text-transform: uppercase;
+	padding: 10px 0;
+}
