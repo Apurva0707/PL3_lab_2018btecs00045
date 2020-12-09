@@ -1,0 +1,23 @@
+body{
+	background-color: #fff3f0;
+	text-decoration-color: black;
+	padding-top: 20;
+	border-color: red;
+	border-style: dotted;
+	color: black;
+}
+h1,h3{
+	text-shadow: transparent;
+	text-align: center;
+	text-decoration-line: black;
+}
+h2{
+	background-color: gray;
+}
+p{
+	text-align: left;
+	lighting-color: transparent;
+}
+a{
+	color: black;
+}
